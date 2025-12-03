@@ -1,5 +1,5 @@
-public class Main {
+class app {
     public static void main(String[] args) {
-        System.out.println("Hello! This is a display message.");
+        System.out.println("hello");
     }
 }
